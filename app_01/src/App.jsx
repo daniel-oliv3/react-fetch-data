@@ -4,7 +4,12 @@ export default function App() {
 
   useEffect(() => {
     fetch('http://localhost:3000/dados/texto.txt')
-    .then((response) => console.log(response))
+    .then((response) => response.text())
+    .then((texto) => console.log(texto))
+
+
+    console.log('primeiro'); //assíncrona, 
+
   }, []);
 
   return (
