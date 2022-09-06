@@ -1,6 +1,12 @@
+import { useEffect } from "react";
 
+export default function App() {
 
-function App() {
+  useEffect(() => {
+    fetch('http://localhost:3000/dados/texto.txt')
+    .then((response) => console.log(response))
+  }, []);
+
   return (
     <>
       <h1>React Fetch Data</h1>
@@ -8,4 +14,3 @@ function App() {
   );
 }
 
-export default App;
