@@ -1,13 +1,15 @@
 ### REACT FETCH DATA.
-### 001 INTRODUÇÃO À CAPTURA DE DADOS
+### 1 - INTRODUÇÃO À CAPTURA DE DADOS
+**Criando o projeto React**
+```
+npx create-react-app app_01
+```
+**Roda o projeto**
+```
+npm start
+```
 
-
-
-
-
-
-
-
+- Exemplo: app_01
 
 
 
