@@ -11,6 +11,9 @@ npm start
 
 - Exemplo: app_01
 
+### 2 - FETCH DE DADOS JSON.
+- Exemplo: app_02
+
 
 
 
