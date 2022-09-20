@@ -31,6 +31,14 @@ O Axios fornece uma biblioteca simples de usar em um pequeno pacote com uma inte
 npm install axios
 ```
 
+**DummyJSON**
+
+Com DummyJSON, o que você obtém são diferentes tipos de REST Endpoints preenchidos com dados JSON que você pode usar no desenvolvimento do frontend com seu favorito
+
+- Site: https://dummyjson.com
+
+
+
 **Roda o projeto**
 ```
 npm start
