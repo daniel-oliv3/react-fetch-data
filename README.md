@@ -18,7 +18,17 @@ npm start
 ### 3 - ADICIONAR AXIOS E EXEMPLO BÁSICON.
 - Exemplo: app_03
 
+**Axios**.
 
+Axios é um cliente HTTP baseado em promessa simples para o navegador e node.js. 
+O Axios fornece uma biblioteca simples de usar em um pequeno pacote com uma interface muito extensível.
+
+- Site: https://axios-http.com/
+- Pt-br: https://axios-http.com/ptbr/docs/intro
+
+```
+
+```
 
 
 
