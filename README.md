@@ -26,6 +26,11 @@ O Axios fornece uma biblioteca simples de usar em um pequeno pacote com uma inte
 - Site: https://axios-http.com/
 - Pt-br: https://axios-http.com/ptbr/docs/intro
 
+**Instalando o Axios**
+```
+npm install axios
+```
+
 **Roda o projeto**
 ```
 npm start
