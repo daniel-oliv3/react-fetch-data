@@ -8,13 +8,22 @@ export default function App(){
     useEffect(() => {
         axios.get('https://dummyjson.com/products')
         .then((response) => {
-            console.log(response)
+            //console.log(response.data.products);
+            setProdutos(response.data.products);
         })
     }, []);
 
     return (
         <>
             <h1>React Axios</h1>
+            <hr/>
+            <ul>
+                {Object.keys(produtos).map((key) => {
+                    return (
+                        <li>{produtos[key].title}</li>
+                    )
+                })}
+            </ul>
         </>
     )
 }
