@@ -15,7 +15,7 @@ npm start
 - Exemplo: app_02
 
 
-### 3 - ADICIONAR AXIOS E EXEMPLO BÁSICON.
+### 3 - ADICIONAR AXIOS E EXEMPLO BÁSICO.
 - Exemplo: app_03
 
 **Axios**.
@@ -26,9 +26,7 @@ O Axios fornece uma biblioteca simples de usar em um pequeno pacote com uma inte
 - Site: https://axios-http.com/
 - Pt-br: https://axios-http.com/ptbr/docs/intro
 
-```
 
-```
 
 
 
