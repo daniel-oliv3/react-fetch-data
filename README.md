@@ -44,7 +44,8 @@ Com DummyJSON, o que você obtém são diferentes tipos de REST Endpoints preenc
 npm start
 ```
 
-
+### 4 - DIFERENTES SOLUÇÕES PARA JAVASCRIPT DO LADO DO SERVIDOR.
+- Exemplo: app_04
 
 
 
