@@ -45,11 +45,24 @@ npm start
 ```
 
 ### 4 - DIFERENTES SOLUÇÕES PARA JAVASCRIPT DO LADO DO SERVIDOR.
-- Exemplo: app_04
+- Exemplo Clear: app_04
 
+**Servidor**
 
+- PHP: https://www.php.net/
 
+- Node: https://nodejs.org/en/
 
+**Concorrentes do Node**
+
+## Dino
+**Dino**: mesmo criador do Node.js 
+Ryan Dahl: https://en.wikipedia.org/wiki/Ryan_Dahl
+
+- Deno: https://deno.land/
+
+## Bun
+- Bun: https://bun.sh/
 
 
 
