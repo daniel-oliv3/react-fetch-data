@@ -55,8 +55,8 @@ npm start
 
 **Concorrentes do Node.js**
 
-## Dino
-**Dino**: mesmo criador do Node.js 
+## Deno
+**Deno**: mesmo criador do Node.js 
 **Ryan Dahl**: https://en.wikipedia.org/wiki/Ryan_Dahl
 
 - Deno: https://deno.land/
